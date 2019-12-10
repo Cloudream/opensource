@@ -1,0 +1,6 @@
+spring:
+  #数据源
+  datasource: 
+    url: jdbc:mysql://192.168.199.133:3306/eshop?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: wxc123
